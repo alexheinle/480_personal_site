@@ -1,0 +1,4 @@
+theme = "hyde"
+baseurl = "/"
+title = "My test"
+description = "A test"
